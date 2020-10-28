@@ -13,7 +13,7 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "About"
+    title: "New Page"
   },
   {
     path: "/blog",
