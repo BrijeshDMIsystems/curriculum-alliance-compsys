@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Standardized testing for pK-12 Educators
+tagline: Educator Competencies for Personalized, Learner-Centered Environments
+featuredImage: /assets/super-teacher.png
 cta:
   ctaText: Know more
   ctaLink: /about
