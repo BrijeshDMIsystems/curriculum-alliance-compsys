@@ -4,9 +4,9 @@
     "titleTemplate": "%s",
     "description": "A global depository of pK-12 reference frameworks and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by <a href=\"https://www.xn--kla-1oa.org/\" target=\"_blank\">Kāla</a>",
     "siteUrl": "https://curriculumalliance.org",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/new-go2core-logo-256.png",
+    "iconimage": "/assets/new-go2core-logo-256.png",
+    "twitterUsername": "@go2coreai"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
