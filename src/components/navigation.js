@@ -12,8 +12,8 @@ const MenuItems = [
     title: "About"
   },
   {
-    path: "/details",
-    title: "Details"
+    path: "/about",
+    title: "About"
   },
   {
     path: "/blog",
