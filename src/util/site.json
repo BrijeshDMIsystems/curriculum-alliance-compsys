@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Curriculum Alliance",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "A global depository of pK-12 reference frameworks and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by <a href=\"https://www.xn--kla-1oa.org/\" target=\"_blank\">Kāla</a>",
+    "siteUrl": "https://curriculumalliance.org",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
